@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aniket Satish Madik</h1>
-<h3 align="center">MCA Student @ NIT Kurukshetra | Full Stack & Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aniket Chaurasia</h1>
+<h3 align="center">MCA Student @ NIT Kurukshetra | Full Stack & DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aniketchaurasia97&label=Profile%20views&color=0e75b6&style=flat" alt="Aniketchaurasia97" />
