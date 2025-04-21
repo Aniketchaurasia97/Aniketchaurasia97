@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/aniket-chaurasia-6a79a9175/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://leetcode.com/Aniketchaurasia97/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40"/></a>
-  <a href="mailto:aniketmadik@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="30" width="40"/></a>
+  <a href="mailto:aniketchaurasia97@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="30" width="40"/></a>
 </p>
 
 ---
@@ -35,6 +35,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+
 </p>
 
 ---
@@ -44,4 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketchaurasia97&show_icons=true&locale=en" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketchaurasia97" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchaurasia97&layout=compact" />
+</p>
+
+<p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aniketchaurasia97" alt="Aniketchaurasia97" /></a> </p>
+
 </p>
