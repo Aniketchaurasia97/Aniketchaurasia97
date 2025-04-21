@@ -50,7 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchaurasia97&layout=compact" />
 </p>
 
-<p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aniketchaurasia97" alt="Aniketchaurasia97" /></a> </p>
-
-</p>
